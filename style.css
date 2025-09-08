@@ -312,7 +312,9 @@ body{
     background-color: #329876;
 
 }
-.page4
+.page4{
+    height: 25vh;
+}
 *{
     padding: 0;
     margin: 0;
